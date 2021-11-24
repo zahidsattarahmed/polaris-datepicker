@@ -1,2 +1,2 @@
 # polaris-datepicker
-Created with CodeSandbox
+A datepicker using Shopify Polaris
